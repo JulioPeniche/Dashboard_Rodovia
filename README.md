@@ -48,7 +48,7 @@ Os dados foram simulados e armazenados em planilhas do Excel, contendo informaç
 ## 📷 Dashboard
 
 
-![Dashboard](tela_Dashboard_Rodovia.png)
+![Dashboard](images/tela_Dashboard_Rodovia.png)
 
 
 ---
@@ -92,8 +92,3 @@ Durante este projeto foram praticados:
 ## 👨‍💻 Autor
 
 Julio Peniche
-```
-
-
-
-
