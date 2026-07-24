@@ -47,13 +47,12 @@ Os dados foram simulados e armazenados em planilhas do Excel, contendo informaç
 
 ## 📷 Dashboard
 
-> Adicione aqui uma imagem do dashboard.
+
+tela_Dashboard_Rodovia.png
+
 
 ```
-images/dashboard.png
-```
 
----
 
 ## 🚀 Objetivo do Projeto
 
