@@ -1,5 +1,5 @@
 # Dashboard de Conservação de Rodovias
-...
+
 
 
 ## 📌 Objetivo
@@ -54,7 +54,7 @@ Os dados foram simulados e armazenados em planilhas do Excel, contendo informaç
 ---
 
 
--- 🚀 Objetivo do Projeto
+--  Objetivo do Projeto
 
 Este projeto foi desenvolvido para praticar:
 
@@ -68,9 +68,13 @@ Este projeto foi desenvolvido para praticar:
 
 
 ## 📂 Estrutura do Projeto
+
 datasets/
+
 powerbi/
+
 images/
+
 README.md
 
 ---
@@ -89,6 +93,6 @@ Durante este projeto foram praticados:
 
 
 
-## 👨‍💻 Autor
+##  Autor
 
 Julio Peniche
