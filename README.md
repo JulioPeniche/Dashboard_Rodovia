@@ -48,13 +48,13 @@ Os dados foram simulados e armazenados em planilhas do Excel, contendo informaç
 ## 📷 Dashboard
 
 
-tela_Dashboard_Rodovia.png
+![Dashboard](tela_Dashboard_Rodovia.png)
 
 
-```
+---
 
 
-## 🚀 Objetivo do Projeto
+-- 🚀 Objetivo do Projeto
 
 Este projeto foi desenvolvido para praticar:
 
@@ -63,16 +63,18 @@ Este projeto foi desenvolvido para praticar:
 - Criação de medidas em DAX
 - Desenvolvimento de dashboards no Power BI
 
+
 ---
 
-## 📂 Estrutura do Projeto
 
-```
+## 📂 Estrutura do Projeto
 datasets/
 powerbi/
 images/
 README.md
-```
+
+---
+
 
 Durante este projeto foram praticados:
 
@@ -83,11 +85,15 @@ Durante este projeto foram praticados:
 - Construção de dashboards interativos
 
 
-
-
-
 ---
+
+
 
 ## 👨‍💻 Autor
 
 Julio Peniche
+```
+
+
+
+
